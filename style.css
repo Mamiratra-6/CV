@@ -1,0 +1,107 @@
+body{
+    margin: auto;
+    margin-right: 20PX;
+}
+.Section-1{
+    margin: auto;
+    padding: 0;
+    display: flex;
+}
+.Section-2 img{
+    width: 300px;
+    
+    margin-left: 50px;
+    border-radius: 120px;
+    margin: auto;
+}
+.Section-2{
+    background-color: rgb(24, 22, 22);
+   width: 400px;
+    
+}
+.Section-2 h1{
+    color: aliceblue;
+    letter-spacing: 10px;
+    margin-left: 70px;
+    
+    width: 13%;
+    
+}
+#grand-titre{
+    text-align: center;
+    margin-top: 15px;
+}
+ul li {
+list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    color: darkslategray;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#p-1{
+margin-left: 50px;
+}
+.Section-2 p{
+    color: rgb(128, 128, 108);
+    font-size: 20px;
+}
+hr{
+    width: 50px;
+}
+.Aside-1{
+    display: flex;
+padding-left: 50px;
+}
+aside{
+    background-color: rgb(207, 193, 193);
+    
+    padding-top: 100px;
+    width: 500px;
+    padding-left: 50px;
+}
+aside h1{
+    color: aliceblue;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid wheat;
+    width: 400px;
+}
+.sss{
+    width: 300px;
+}
+.sss h4{
+    color: rgb(107, 102, 96);
+}
+.sss h5{
+    color: rgb(61, 66, 66);
+    font-family: cursive;
+}
+.ddd h4{
+    color: rgb(68, 65, 60);
+}
+aside p{
+    color: rgb(81, 88, 88);
+    font-size: 20px;
+}
+.Aside-2{
+    display: flex;
+padding-left: 50px;
+}
+.ddd2 #ttt{
+    color: rgb(68, 65, 60);
+}
+.sss1 #ttt1{
+    color: rgb(107, 102, 96);
+}
+.sss1 #VVV1{
+    color: rgb(61, 66, 66);
+    font-family: cursive;
+}
+.sss1{
+    width: 300px;
+}
+ul li {
+    list-style-type: circle;
+}
